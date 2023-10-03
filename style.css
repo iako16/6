@@ -1,0 +1,49 @@
+.Products{
+    margin-left: 90px;
+    margin-top: 25px;
+}
+.Products p{
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Products h1{
+   font-size: 70px;
+    font-weight: bolder;
+}
+.breads div{
+    display: inline-block;
+}
+.homemadeBread{
+    width:880px;
+    background-color: purple;
+    margin-left: 90px;
+    height: 300px;
+}
+.homemadeBread p{
+    padding-left: 30px;
+    padding-top: 50px;
+}
+.bread p{
+    display: inline-block;
+}
+
+.cookiesAll div{
+    display: inline-block;
+    width: 30%;
+    background-color: pink;
+    margin-top: 20px;
+    padding-left: 15px;
+    height: 300px;
+}
+.cookiesAll{
+    margin-left: 6%;
+}
+.cookiesAll div p{
+    padding-top:  150px;
+    display: inline-block;
+    margin-left: 70px;
+    font-size: 20px;
+}
+
+
+
